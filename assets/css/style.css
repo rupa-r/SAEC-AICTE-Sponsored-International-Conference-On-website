@@ -1388,4 +1388,5 @@ div#preloader {
     display: table-cell;
     vertical-align: middle;
     text-align: left;
+    font-weight: 700;
 }
